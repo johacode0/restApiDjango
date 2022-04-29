@@ -1,5 +1,5 @@
 # REST_API_DJANGO
-## Formation Web: Django REST API Framework récupère les données de MySQL (phpmyadmin)
+## FORMATION WEB: DJANGO REST API FRAMEWORK RÉCUPÈRE LES DONNÉES DE MYSQL (PHPMYADMIN)
 ### INSTALLATION 
 -   GIT
 -   PYTHON

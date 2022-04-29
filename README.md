@@ -1,6 +1,6 @@
-# restApiDjango
+# REST_API_DJANGO
 ## Formation Web: Django REST API Framework récupère les données de MySQL (phpmyadmin)
-### INSTALLATION DE GIT 
+#### INSTALLATION DE GIT 
 ### INSTALLATION DE PYTHON
 ### INSTALLATION DE GESTIONNAIRE DE DEPENDANCE : PIP
 ### PIP INSTALL VIRTUALENV
